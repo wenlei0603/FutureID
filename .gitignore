@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+*.tsbuildinfo
+
+# 不随仓库公开：原始研究数据与材料（基准由 study2-benchmark.json 提供）
+complementarity_future_id/
